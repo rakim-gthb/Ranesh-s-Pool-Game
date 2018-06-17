@@ -92,7 +92,7 @@ function generateMainMenuButtons(inGame){
         sprites.backButton, 
         new Vector2(100,150),
         function(){
-            Game.mainMenu.labels = generateMainMenuLabels("Classic 8-Ball");
+            Game.mainMenu.labels = generateMainMenuLabels("Ranesh's Pool Game");
             Game.mainMenu.buttons = generateMainMenuButtons(inGame);
         },
         sprites.backButtonHover
