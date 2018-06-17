@@ -16,7 +16,4 @@ Have fun, and good luck!
 * Left click : shoot.<br>
 * Aim by moving the mouse.<br>
 
-<h3>Screenshots:</h3>
-<img src="https://image.ibb.co/b9HT6x/screenshots.jpg" style="width: 10px;"></img>
-
 
