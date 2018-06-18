@@ -4,7 +4,7 @@ function generateMainMenuLabels(headerText){
     let labels = [
 
         new Label(
-            headerText, 
+            "Ranesh's 8-Ball Pool Game", 
             new Vector2(100,0),
             Vector2.zero,
             "white",
